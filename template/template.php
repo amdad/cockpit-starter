@@ -27,7 +27,7 @@
 		<?php require_once("layouts/header.php"); ?>
 	</div>
 
-	<div id="main" class="rb-height-viewport">
+	<div id="main">
 		<?php echo $content_for_layout;?>
 	</div>
 
