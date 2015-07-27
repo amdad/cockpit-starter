@@ -18,7 +18,7 @@
 	<base href="<?php echo $this->routeUrl('/')?>">
 
 	<title><?php echo $pageTitle; ?></title>
-	<link rel="stylesheet" href="/assets/uikit/css/uikit.min.css" type="text/css">
+	<link rel="stylesheet" href="/vendor/uikit/css/uikit.min.css" type="text/css">
 
 </head>
 
@@ -36,7 +36,7 @@
 	</div>
 
 	<script src="/vendor/jquery/dist/jquery.min.js"></script>
-	<script src="/assets/uikit/js/uikit.min.js"></script>
+	<script src="/vendor/uikit/js/uikit.min.js"></script>
 
 </body>
 </html>
