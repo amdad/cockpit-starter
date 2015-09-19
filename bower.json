@@ -1,8 +1,24 @@
 {
   "name": "Cockpit Starter",
-  "version": "0.0.1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/peterbrinck/cockpit-starter",
+  "authors": [
+    "Peter Brinck <peter@peterbrinck.dk>"
+  ],
+  "description": "Cockpit Starter is the very backbone of a new Cockpit site",
+  "keywords": [
+    "cockpit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/",
+    "test",
+    "tests"
+  ],
   "dependencies": {
-    "jquery": "latest",
-    "uikit": "latest"
+    "uikit": "~2.22.0"
   }
 }
